@@ -1,7 +1,7 @@
 # The official pre-view of CS-MoE
 
-- **Pre-print**: Please refer to [ResearchGate](https://www.researchgate.net/publication/402994336_Improving_Parameter_Utilization_by_Sharing_Neural_Experts_Across_Transformer_Layers) for the pre-print of our work (The ArXiv preprint is coming soon). 
-- **Paper**: Please refer to CS-MoE-view.pdf for the paper.
+- **Pre-print**: Please refer to [ResearchGate](https://www.researchgate.net/publication/402994336_Improving_Parameter_Utilization_by_Sharing_Neural_Experts_Across_Transformer_Layers) for the pre-print of our work. 
+- **Paper**: Please refer to [CS-MoE-view.pdf](./CS-MoE-view.pdf) for the paper.
 - **Codes**: Codes and checkpoints will be public once official approval is received.
 
 ---
@@ -217,8 +217,9 @@ CS-MoE uniquely combines **per-token dynamic routing** with **genuine inter-laye
 @article{jiao2026csmoe,
   title={Improving Parameter Utilization by Sharing Neural Experts Across Transformer Layers},
   author={Jiao, Dian and Duan, Jiaxin and Zhao, Shuai and Wang, Jian and Leng, Jiabing and Zhang, Yiran and Huang, Feng},
-  journal={arXiv preprint},
-  year={2026}
+  journal={researchgate preprint},
+  year={2026},
+  url={https://www.researchgate.net/publication/402994336}
 }
 ```
 
