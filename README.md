@@ -352,7 +352,6 @@ python evaluate.py --model_type imoe --run_name qwen-imoe-0.6b-sft \
 ```
 Self-MoE/
 ├── README.md                      # this file
-├── references.bib                 # bibliography of related works
 ├── figures/
 │   ├── moe_merged.png             # Figure 2: architecture comparison
 │   ├── exp_p/figure1b_curve.png   # Figure 1: CKA pilot study
@@ -389,12 +388,14 @@ Self-MoE/
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{jiao2026csmoe,
-  title     = {Improving Parameter Utilization by Sharing Neural Experts Across Layers in Transformers},
-  author    = {Jiao, Dian and Duan, Jiaxin and Zhao, Shuai and Leng, Jiabing and Zhang, Yiran and Huang, Feng},
-  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2026},
-  url       = {https://arxiv.org/abs/2609.22199}
+@misc{jiao2026improvingparameterutilizationsharing,
+      title={Improving Parameter Utilization by Sharing Neural Experts Across Layers in Transformers}, 
+      author={Dian Jiao and Jiaxin Duan and Shuai Zhao and Jiabing Leng and Yiran Zhang and Feng Huang},
+      year={2026},
+      eprint={2609.22199},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2609.22199}, 
 }
 ```
 
