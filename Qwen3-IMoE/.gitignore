@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Data / outputs
+cache/
+outputs/
+results/
+data/
+*.arrow
+*.parquet
+*.safetensors

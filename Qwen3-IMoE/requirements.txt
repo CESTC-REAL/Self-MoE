@@ -1,0 +1,8 @@
+torch>=2.1
+transformers>=4.57
+datasets>=2.19
+accelerate>=0.30
+zstandard
+pandas
+tqdm
+tensorboard

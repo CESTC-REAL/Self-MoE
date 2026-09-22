@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Local data / outputs (see Qwen3-IMoE/.gitignore for details)
+outputs/
+results/
+cache/
+*.arrow
